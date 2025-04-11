@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm [Afia]</h1>
+<h1 align="center">Hi there 👋, I'm Afia</h1>
 <h3 align="center">Data Explorer • Visualization Enthusiast • Streamlit Dev</h3>
 
 ---
