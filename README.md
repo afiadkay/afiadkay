@@ -10,11 +10,7 @@ Built using **Streamlit**, **Plotly**, and **Pandas**. Toggle dark mode, view ma
 
 🚀 [Launch App](https://afiadkay.streamlit.app)  
 📂 [View Repository](https://github.com/afiadkay/co2-Emissions-by-Country)
-
-<p align="center">
-  <img src="streamlit.png" width="800" alt="CO₂ Dashboard Screenshot">
-</p>
-
+![CO₂ Dashboard Screenshot](Streamlit.png)
 
 ---
 
