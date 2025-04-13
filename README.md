@@ -1,6 +1,11 @@
-<h1 align="left">Hi there 👋, I'm Afia!</h1>
+<h1 align="left">Hi there, I'm Afia 👋</h1>
 <h3 align="left">Data Explorer • Visualization Enthusiast • Streamlit Dev</h3>
 
+<p align="left">
+  <img src="https://img.shields.io/github/followers/afiadkay?label=Follow&style=social" alt="GitHub Followers">
+  <img src="https://komarev.com/ghpvc/?username=afiadkay&color=blue" alt="Profile Views">
+  <img src="https://img.shields.io/github/stars/afiadkay?style=social" alt="GitHub Stars">
+</p>
 ---
 
 ### 🌍 Featured Project: Global CO₂ Emissions Dashboard
