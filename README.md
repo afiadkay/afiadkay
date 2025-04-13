@@ -36,9 +36,8 @@ Built using **Streamlit**, **Plotly**, and **Pandas**. Toggle dark mode, view ma
 ## 🏆 Achievements 
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=afiadkay&theme=algolia&row=1&no-bg=true&no-frame=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=afiadkay&theme=algolia&margin-w=15&no-bg=true&no-frame=true" />
 </p>
-
 ---
 
 ### 📫 Connect with Me
