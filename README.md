@@ -1,10 +1,5 @@
 <h1 align="left">Hi there, I'm Afia 👋</h1>
 
-<p align="left">
-  <img src="https://img.shields.io/github/followers/afiadkay?label=Follow&style=social" alt="GitHub Followers">
-  <img src="https://komarev.com/ghpvc/?username=afiadkay&color=blue" alt="Profile Views">
-  <img src="https://img.shields.io/github/stars/afiadkay?style=social" alt="GitHub Stars">
-</p>
 ---
 
 ## 👩‍💻 About Me
@@ -23,21 +18,6 @@ Built using **Streamlit**, **Plotly**, and **Pandas**. Toggle dark mode, view ma
 🚀 [Launch App](https://afiadkay.streamlit.app)  
 📂 [View Repository](https://github.com/afiadkay/co2-Emissions-by-Country)
 
----
-
-## 🔥 My GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=afiadkay&show_icons=true&theme=radical&hide_title=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=afiadkay&layout=compact&theme=radical&hide_title=true" width="42%" />
-</p>
-
----
-## 🏆 Achievements 
-
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=afiadkay&theme=algolia&margin-w=15&no-bg=true&no-frame=true" />
-</p>
 ---
 
 ### 📫 Connect with Me
