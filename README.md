@@ -27,7 +27,7 @@ Built using **Streamlit**, **Plotly**, and **Pandas**. Toggle dark mode, view ma
 
 ## 🔥 My GitHub Stats
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=afiadkay&show_icons=true&theme=radical&hide_title=true" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=afiadkay&layout=compact&theme=radical&hide_title=true" width="42%" />
 </p>
@@ -35,7 +35,7 @@ Built using **Streamlit**, **Plotly**, and **Pandas**. Toggle dark mode, view ma
 ---
 ## 🏆 Achievements 
 
-<p align="center">
+<p align="left">
   <img src="https://github-profile-trophy.vercel.app/?username=afiadkay&theme=algolia&margin-w=15&no-bg=true&no-frame=true" />
 </p>
 ---
@@ -43,12 +43,6 @@ Built using **Streamlit**, **Plotly**, and **Pandas**. Toggle dark mode, view ma
 ### 📫 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/aa-ca/)
-
----
-
-<p align="left">
-  <i>“Turning data into decisions, one dashboard at a time.”</i>
-</p>
 
 ---
 
